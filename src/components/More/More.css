@@ -1,0 +1,23 @@
+.more--languages{
+    margin:1rem 0 1rem 0;
+}
+
+.more--languages--div{
+    margin:0.5rem 0 0 0;
+    display:flex;
+}
+
+.more--languages--div h5{
+    font-size:1rem;
+    padding: 0 0.3rem 0 0;
+}
+
+.more--habilities{
+    margin:1rem 0 1rem 0;
+}
+
+.more--habilities h5{
+    margin:0.5rem 0 0 0;
+    font-size:1rem;
+}
+

@@ -1,0 +1,20 @@
+.experience{
+    margin:1rem 0 1rem 0;
+}
+
+.experience--div{
+    margin:0.5rem 0 0 0;
+}
+
+.experience--div h5{
+    font-size:1rem;
+}
+
+.experience--div div p{
+    font-size:0.9rem;
+    margin: 0 0 0.3rem 0;
+}
+
+.experience--div div p span{
+    text-decoration: underline;
+}

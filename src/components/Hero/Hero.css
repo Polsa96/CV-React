@@ -1,0 +1,13 @@
+.hero{
+    margin: 0 0 3rem 0;
+
+}
+
+.hero--info{
+    display:flex;
+}
+
+.hero--info--address{
+    margin: 0 2rem 0 0;
+}
+
